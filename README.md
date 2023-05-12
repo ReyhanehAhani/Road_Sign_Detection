@@ -1,5 +1,5 @@
 
-# Road Sign Dtection and Classification ⛔ 🚷 🚸
+# Road Sign Detection and Classification ⛔ 🚷 🚸
 
 In this project, we aim to classify road sign images using transfer learning and comparing different architectures of CNN.
 At the first step we built a network and then we tried to make it better, then we use transfer learning and ensemble learning to enhance the performance.
